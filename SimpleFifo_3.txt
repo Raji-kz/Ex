@@ -80,6 +80,3 @@ SC_MODULE(Consumer) {
         }
     }
 };
-
-
-}
